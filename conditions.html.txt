@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Conditions d'utilisation - TikTok Rachid Coaching Life</title>
+  <title>Conditions d'utilisation</title>
 </head>
 <body>
   <h1>Conditions d'utilisation</h1>
@@ -11,10 +11,27 @@
     Bienvenue sur TikTok Rachid Coaching Life. En utilisant notre application, vous acceptez les présentes conditions d'utilisation. Ces règles garantissent une expérience sûre et respectueuse pour tous les utilisateurs.
   </p>
   <p>
-    Nous utilisons votre connexion TikTok pour personnaliser votre expérience et proposer du contenu adapté à vos besoins. Vos données sont traitées conformément à notre politique de confidentialité.
+    En accédant ou en utilisant notre application, vous reconnaissez avoir lu, compris et accepté les présentes conditions d'utilisation.
   </p>
+  <h2>Utilisation des données</h2>
   <p>
-    Pour toute question, contactez-nous à cheham@hotmail.fr.
+    Nous utilisons votre connexion TikTok pour personnaliser votre expérience et proposer du contenu adapté à vos besoins. Vos données sont traitées conformément à notre <a href="#">politique de confidentialité</a>.
+  </p>
+  <h2>Droits d'auteur</h2>
+  <p>
+    Tout le contenu, y compris les textes, images, logos et fonctionnalités disponibles sur notre application, est protégé par des droits d'auteur et ne peut être utilisé sans autorisation écrite préalable.
+  </p>
+  <h2>Limitation de responsabilité</h2>
+  <p>
+    Nous nous efforçons de fournir une expérience fluide et sécurisée, mais nous ne pouvons garantir que l'application sera exempte d'erreurs ou de dysfonctionnements. L'utilisation de notre application se fait à vos propres risques.
+  </p>
+  <h2>Modifications des conditions</h2>
+  <p>
+    Nous nous réservons le droit de mettre à jour ou de modifier ces conditions d'utilisation à tout moment. Les modifications prendront effet immédiatement après leur publication sur cette page.
+  </p>
+  <h2>Contact</h2>
+  <p>
+    Pour toute question, contactez-nous à <a href="mailto:chehem@hotmail.fr">chehem@hotmail.fr</a>.
   </p>
 </body>
 </html>
