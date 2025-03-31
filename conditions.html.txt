@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="tiktok-verification" content="TON_CODE_UNIQUE_ICI">
   <title>Conditions d'utilisation</title>
 </head>
 <body>
