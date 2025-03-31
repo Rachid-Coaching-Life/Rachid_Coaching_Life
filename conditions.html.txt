@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conditions d'utilisation - TikTok Rachid Coaching Life</title>
+</head>
+<body>
+  <h1>Conditions d'utilisation</h1>
+  <p>
+    Bienvenue sur TikTok Rachid Coaching Life. En utilisant notre application, vous acceptez les présentes conditions d'utilisation. Ces règles garantissent une expérience sûre et respectueuse pour tous les utilisateurs.
+  </p>
+  <p>
+    Nous utilisons votre connexion TikTok pour personnaliser votre expérience et proposer du contenu adapté à vos besoins. Vos données sont traitées conformément à notre politique de confidentialité.
+  </p>
+  <p>
+    Pour toute question, contactez-nous à cheham@hotmail.fr.
+  </p>
+</body>
+</html>
